@@ -1,7 +1,3 @@
 test1
 test2
-<<<<<<< HEAD
 test dev abc
-=======
-test dev abc
->>>>>>> dev
